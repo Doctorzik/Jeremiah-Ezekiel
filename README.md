@@ -17,7 +17,8 @@ I'm Jeremiah Ezekiel Happy, a student at Brigham Young University-Idaho interest
 
 ## Let's Connect!
 
-- Here is my  <a href="https://www.linkedin.com/in/jeremiahezekiel">LinkedIn</a>
+- Here is my  <a href="https://www.linkedin.com/in/jeremiahezekiel">LinkedIn </a>
 - Here is my  <a href="https://x.com/doctorzikboy">X (twitter) handle</a>
+   
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
